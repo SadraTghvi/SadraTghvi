@@ -1,4 +1,4 @@
-Member Of @00Team
+Member Of [@00-team](https://github.com/00-team)
 
 ## Technologies and Tools I use:
 
