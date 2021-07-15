@@ -7,7 +7,6 @@
 [<img src='https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200.webp' width='40' height='40' />](https://nodejs.org/)
 [<img src='https://i.giphy.com/media/eNAsjO55tPbgaor7ma/100w.webp' width='40' height='40' />](https://reactjs.org/)
 [<img src='https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg' width='40' height='40' />](https://webpack.js.org)
-<!-- [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' width='40' height='40' />](https://sass-lang.com/) -->
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' width='40' height='40' />](https://git-scm.com/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='40' height='40' />](https://marketplace.visualstudio.com/items?itemName=i007c.00-team-theme)
 <!-- [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' width='40' height='40' />](https://www.docker.com/) -->
