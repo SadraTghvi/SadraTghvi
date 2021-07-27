@@ -17,7 +17,7 @@ Member Of [@00-team](https://github.com/00-team)
   
 [![007s GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadraTghvi&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91)](https://github.com/SadraTghvi)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SadraTghvi&bg_color=000&icon_color=FFF&border_radius=10)](https://github.com/SadraTghvi)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SadraTghvi&bg_color=000&icon_color=FFF&border_radius=10)](https://github.com/SadraTghvi?tab=repositories)
   
 
 <span>Find Me on</span>
